@@ -1,6 +1,6 @@
 # stm32f4-disc-accelerometer-rust
 
-For the STM32F4DISCOVERY board, provides LEDs blink patterns. The USER push-button allows switching pattern.
+For the STM32F4DISCOVERY board, use the accelerometer to light the LEDS.
 
 ## How to install
 See : https://docs.rust-embedded.org/book/intro/install/linux.html<br><br>
